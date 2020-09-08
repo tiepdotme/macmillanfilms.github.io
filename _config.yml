@@ -21,9 +21,9 @@ defaults:
     price: 100
 author: Macmillan Films
 baseurl: 
-url: https://www.macmillanfilms.com
+url: https://www.alonead.com
 email: james@macmillanfilms.com
-enforce_ssl: www.macmillanfilms.com
+enforce_ssl: www.alonead.com
 description: A film studio which makes eductional movies for broadcast, institutional,
   and home use.
 image: "/assets/images/logo.svg"
