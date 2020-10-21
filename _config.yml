@@ -21,9 +21,9 @@ defaults:
     price: 100
 author: Macmillan Films
 baseurl: 
-url: https://alonead.com
-email: james@macmillanfilms.com
-enforce_ssl: alonead.com
+url: https://makuhope.com
+email: james@makuhope.com
+enforce_ssl: makuhope.com
 description: A film studio which makes eductional movies for broadcast, institutional,
   and home use.
 image: "/assets/images/logo.svg"
